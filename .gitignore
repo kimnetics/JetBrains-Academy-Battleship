@@ -1,0 +1,5 @@
+# Compiled Files
+*.class
+
+# IntelliJ
+.idea/
